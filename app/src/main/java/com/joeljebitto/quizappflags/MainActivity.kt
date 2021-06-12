@@ -1,4 +1,4 @@
-package com.joeljebitto.quizapp
+package com.joeljebitto.quizappflags
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

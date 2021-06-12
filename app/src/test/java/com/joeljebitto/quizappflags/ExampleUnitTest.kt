@@ -1,4 +1,4 @@
-package com.joeljebitto.quizapp
+package com.joeljebitto.quizappflags
 
 import org.junit.Test
 
